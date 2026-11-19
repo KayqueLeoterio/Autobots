@@ -37,7 +37,7 @@ public class Main {
         System.out.println("Classificacao: " + gerenciador.classificar(ratchet));
 
 
-        System.out.println("Autobots com energon 0 ou negativo;");
+        System.out.println("Autobots com energon 0 ou negativo:");
         for (Autobot a : gerenciador.listarIndisponiveis()) {
             System.out.println("Nome: "+ a.getNome());
         }
