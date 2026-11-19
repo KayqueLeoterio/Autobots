@@ -75,4 +75,4 @@ seus parâmetros, valores retornados e possíveis exceções. Também adicionei 
 é lançada quando o nível informado está fora do intervalo permitido de 1 a 10.
 
 # Saída esperada:
-![img.png](img.png)
+![img.png](src/img.png)
